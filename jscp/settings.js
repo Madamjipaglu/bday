@@ -24,7 +24,7 @@ let settings = {
         { image: './image/Birthday!/photo8.jpg', content: 'Love you so much! Have the best day! ❤️🎂' },
         { image: './image/Birthday!/photo10.jpg', content: 'Taking care of you is my favorite love language 🌷' }, 
         { image: './image/Birthday!/photo11.jpg', content: 'somehow you became my safest place 🤍' },  
-        { image: './image/Birthday!/photo12.jpg', content: 'I promise to stay loyal to us💓' }
+        { image: './image/Birthday!/photo12.jpg', content: 'I promise to stay loyal to us💓' },
         { image: './image/Birthday!/photo13.jpg', content: 'You are my world 🌍' },
         { image: './image/Birthday!/photo14.jpg', content: 'May God bless you everything 🧿' },
         { image: './image/Birthday!/photo15.jpg', content: 'You will be always my First Baccha😘' },
@@ -365,7 +365,7 @@ function initializeDefaultSettings() {
             { image: './image/Birthday!/photo8.jpg', content: 'Love you so much! Have the best day! ❤️🎂' },
              { image: './image/Birthday!/photo10.jpg', content: 'Taking care of you is my favorite love language 🌷' }, 
         { image: './image/Birthday!/photo11.jpg', content: 'somehow you became my safest place 🤍' },  
-        { image: './image/Birthday!/photo12.jpg', content: 'I promise to stay loyal to us💓' }
+        { image: './image/Birthday!/photo12.jpg', content: 'I promise to stay loyal to us💓' },
              { image: './image/Birthday!/photo13.jpg', content: 'You are my world 🌍' },
         { image: './image/Birthday!/photo14.jpg', content: 'May God bless you everything 🧿' },
         { image: './image/Birthday!/photo15.jpg', content: 'You will be always my First Baccha😘' },
