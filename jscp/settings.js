@@ -9,7 +9,7 @@ let settings = {
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Pink color
     matrixColor2: '#ff1493', // Pink color
-    sequence: 'HAPPY|BIRTHDAY|TO|YOU|HINATA|❤',
+    sequence: 'HAPPY|BIRTHDAY|TO|YOU|MADAMJII|❤',
     sequenceColor: '#ff69b4', // Pink color
     gift: '', // No sticker/GIF
     pages: [
@@ -22,6 +22,12 @@ let settings = {
         { image: './image/Birthday!/photo6.jpg', content: 'May all your dreams come true! ⭐' },
         { image: './image/Birthday!/photo7.jpg', content: 'You deserve all the happiness! 🌈' },
         { image: './image/Birthday!/photo8.jpg', content: 'Love you so much! Have the best day! ❤️🎂' },
+        { image: './image/Birthday!/photo10.jpg', content: 'Taking care of you is my favorite love language 🌷' }, 
+        { image: './image/Birthday!/photo11.jpg', content: 'somehow you became my safest place 🤍' },  
+        { image: './image/Birthday!/photo12.jpg', content: 'I promise to stay loyal to us💓' }
+        { image: './image/Birthday!/photo13.jpg', content: 'You are my world 🌍' },
+        { image: './image/Birthday!/photo14.jpg', content: 'May God bless you everything 🧿' },
+        { image: './image/Birthday!/photo15.jpg', content: 'You will be always my First Baccha😘' },
         { image: './image/Birthday!/9.jpg', content: '' } // End cover
     ],
     enableBook: true,
