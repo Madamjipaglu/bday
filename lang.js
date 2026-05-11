@@ -27,7 +27,7 @@ const translations = {
         note: "⏳ Enjoy this special birthday website!",
         follow: "💝 This special birthday website was lovingly created for you",
         apply: "Apply Settings",
-        copyright: 'Made with 💕 for Hinata\'s Birthday',
+        copyright: 'Made with 💕 for Khushi\'s Birthday',
         fullscreen: "Fullscreen",
         on: "On",
         off: "Off",
