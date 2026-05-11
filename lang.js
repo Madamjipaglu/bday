@@ -3,7 +3,7 @@
 
 const translations = {
     en: {
-        title: "Happy Birthday Hinata 🎁",
+        title: "Happy Birthday Madamji 🍁",
         description: "A special birthday surprise for Hinata! Click to see the special message!",
         login: "Sign in with Google",
         logout: "Logout",
